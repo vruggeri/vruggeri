@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+A software developer with passion for DevOps activitie!
+
+<br />
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vruggeri&layout=compact&theme=algolia" />
+     <br />
+    <img src="https://github-readme-stats.vercel.app/api?username=vruggeri&show_icons=true&count_private=true&theme=algolia" />
+  </div>
+<br />
